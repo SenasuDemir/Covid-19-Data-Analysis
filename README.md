@@ -19,3 +19,7 @@ This project aims to analyze and visualize the progression of COVID-19 in select
 
 The dataset used in this analysis contains COVID-19 case data across multiple countries, including daily records of new cases, recoveries, and fatalities. Dataset is given in the uploaded files with name "corona_data.csv"
 
+
+
+https://github.com/user-attachments/assets/977a54c1-993f-40cf-b211-c73296f22644
+
