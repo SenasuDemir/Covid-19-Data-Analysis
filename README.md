@@ -3,12 +3,12 @@
   This project involves exploratory data analysis (EDA) of COVID-19 data from various countries, including Turkey, Italy, Germany, the United Kingdom, China, and the US. The analysis is visually represented using a bar chart race animation, providing an engaging overview of how the pandemic has impacted these countries over time.
 
 ### Table of Contents
-- [Project Overview](#project-overview)
-- [Installation](#installation)
-- [Import](#import-libarires)
-- [Dataset](#dataset)
-- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-- [Visualization with Bar Chart Race](#visualization-with-bar-chart-race)
+- [Project Overview](##project-overview)
+- [Installation](##installation)
+- [Import Libraries](##import-libarires)
+- [Import Data](##import-data)
+- [EDA (Exploratory Data Analysis )](##eda-exploratory-data-analysis)
+- [Visualization with Bar Chart Race](##visualization-with-bar-chart-race)
 
 ### Project Overview
 
